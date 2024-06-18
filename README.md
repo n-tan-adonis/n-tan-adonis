@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n-tan-adonis&label=Profile%20views&color=0e75b6&style=flat" alt="n-tan-adonis" /> </p>
 
-- 🌱 I’m currently learning **OpenCV**
+- 🌱 I’m currently learning **AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
