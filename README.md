@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://fb.com/nhattan1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="trương-lê-nhật-tân-688390225/" height="30" width="40" /></a>
 <a href="https://fb.com/nhattan1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nhattan1302" height="30" width="40" /></a>
 <a href="https://instagram.com/n.tan_adonis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="n.tan_adonis" height="30" width="40" /></a>
 </p>
